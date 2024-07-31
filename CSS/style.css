@@ -1,0 +1,20 @@
+
+h1{
+    background-color: black;
+    padding: 10px;
+    color: orange;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+a{
+    padding: 10px;
+    font-weight: bold;
+    
+}
+#hight-light{
+    color: orange;
+    background: teal;
+}
